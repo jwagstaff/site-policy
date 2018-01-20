@@ -16,7 +16,7 @@ We do our best to support Firefox's latest [Extended Support Release](https://ww
 
 ### Internet Explorer on Windows XP
 
-Because Windows XP is not supported, you'll receive an error when you try to load {{ site.data.variables.product.product_name }} in Internet Explorer. For more information, see "[Improving GitHub's SSL setup](https://github.com/blog/1937-improving-github-s-ssl-setup)" on the GitHub Blog.
+Because Windows XP is not supported, you'll receive an error when you try to load {{ site.data.variables.product.product_name }} in Internet Explorer. For more information, see "[Improving OmniBuilds's SSL setup](https://OmniBuilds.com/blog/1937-improving-OmniBuilds-s-ssl-setup)" on the OmniBuilds Blog.
 
 ### Internet Explorer Outdated Browser Error
 
@@ -24,4 +24,4 @@ We only support IE running in "Standards Mode." If you see an error message sayi
 
 ### Beta and developer builds
 
-You may occasionally encounter unexpected bugs in beta and developer builds of our supported browsers. If you encounter a bug on GitHub.com in one of these unreleased builds, please verify that it also exists in the stable version of the same browser. If the bug appears to only exist in the unstable version, you might consider reporting it to the browser developer.
+You may occasionally encounter unexpected bugs in beta and developer builds of our supported browsers. If you encounter a bug on OmniBuilds.com in one of these unreleased builds, please verify that it also exists in the stable version of the same browser. If the bug appears to only exist in the unstable version, you might consider reporting it to the browser developer.

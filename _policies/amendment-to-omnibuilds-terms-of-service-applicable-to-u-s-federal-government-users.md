@@ -1,18 +1,18 @@
 ---
-title: Amendment to GitHub Terms of Service Applicable to U.S. Federal Government Users
+title: Amendment to OmniBuilds Terms of Service Applicable to U.S. Federal Government Users
 ---
 
 {{tip}}
 
-This Amendment to GitHub's [Terms of Service](/articles/github-terms-of-service) applies only to users that are using GitHub on behalf of a United States federal government agency. If you are not using GItHub on behalf of a U.S. federal government agency, the standard [GitHub Terms of Service](/articles/github-terms-of-service) applies to you.
+This Amendment to OmniBuilds's [Terms of Service](/articles/OmniBuilds-terms-of-service) applies only to users that are using OmniBuilds on behalf of a United States federal government agency. If you are not using OmniBuilds on behalf of a U.S. federal government agency, the standard [OmniBuilds Terms of Service](/articles/OmniBuilds-terms-of-service) applies to you.
 
 {{tip}}
 
-This Amendment is an agreement between GitHub, Inc. ("GitHub" or "Company") and U.S. federal government users of the GitHub.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
+This Amendment is an agreement between OmniBuilds, Inc. ("OmniBuilds" or "Company") and U.S. federal government users of the OmniBuilds.com web site (the “Service”) and applies solely to any U.S. Government agency users who use or access the Service on behalf of a U.S. federal government agency (the "Agency").
 
 You, as a United States government entity, are required, when entering into agreements with other parties, to follow applicable federal laws and regulations, including those related to ethics; privacy and security; accessibility; records retention; limitations on indemnification; fiscal law constraints; advertising and endorsements; freedom of information; and governing law and dispute resolution forum.
 
-GitHub and You (together, the "Parties") agree that modifications to the [GitHub Terms of Service](/articles/github-terms-of-service) (the "ToS") are appropriate to accommodate Your legal status, Your public (in contrast to private) mission, and other special circumstances. Accordingly, the ToS are hereby modified by this Amendment as they pertain to the Agency's use of the Company web site and services:
+OmniBuilds and You (together, the "Parties") agree that modifications to the [OmniBuilds Terms of Service](/articles/OmniBuilds-terms-of-service) (the "ToS") are appropriate to accommodate Your legal status, Your public (in contrast to private) mission, and other special circumstances. Accordingly, the ToS are hereby modified by this Amendment as they pertain to the Agency's use of the Company web site and services:
 
 ### A. Public purpose
 
@@ -20,17 +20,17 @@ GitHub and You (together, the "Parties") agree that modifications to the [GitHub
 
 3. *Advertisements* - Company hereby agrees not to serve or display any third-party commercial advertisements or solicitations on any pages within the Company site displaying content created by or under the control of the Agency. This exclusion shall not extend to house ads, which Company may serve on such pages in a non-intrusive manner. The foregoing obligations are contingent upon the email address designated on Your account details page ending in `.gov`, `.mil`, or `.fed.us`.
 
-### B. Your content on GitHub
+### B. Your content on OmniBuilds
 
 1. *Access and use* - Company acknowledges that the Agency's use of and the Service may energize significant citizen engagement. Language in the ToS allowing Company to terminate service, refuse or remove any Content, or close the Agency's account, at any time, for any reason, is modified to reflect the Parties' agreement that Company may unilaterally modify or discontinue service, temporarily or permanently, refuse or remove any Content, and/or terminate the Agency's account only for breach of the Agency’s obligations under the ToS or its material failure to comply with the instructions and guidelines posted on the Service, or if Company ceases to operate the Service generally. Company will provide the Agency with a reasonable opportunity to cure any breach or failure on the Agency's part.
 
 2. *No endorsement* - Company agrees that Your seals, trademarks, logos, service marks, trade names, and the fact that You have a presence on the Company site and use its services, shall not be used by Company in such a manner as to state or imply that Company's products or services are endorsed, sponsored or recommended by You or by any other element of the Federal Government, or are considered by these entities to be superior to any other products or services. Except for pages whose design and content is under the control of the Agency, or for links to or promotion of such pages, Company agrees not to display any Agency or government seals or logos on the Company's homepage or elsewhere on the Company Site, unless permission to do so has been granted by the Agency or by other relevant federal government authority. Company may list the Agency's name in a publicly available customer list so long as the name is not displayed in a more prominent fashion than that of any other third-party name.
 
-3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://help.github.com/privacy/](/privacy).
+3. *Provision of data* - In case of termination of service, within 30 days of such termination, upon request, Company will provide you with all user-generated content that is publicly visible through the Sites You created at Company. Data will be provided in a commonly used file or database format as Company deems appropriate. Company will not provide data if doing so would violate its privacy policy, available at [https://help.OmniBuilds.com/privacy/](/privacy).
 
 ### C. Unpaid and paid plans
 
-1. *No cost agreement* - Nothing in this Amendment or ToS obligates You to expend appropriations or incur financial obligations. The Parties acknowledge and agree that none of the obligations arising from this Amendment or ToS are contingent upon the payment of fees by one party to the other. At the Company’s discretion, GitHub may offer a free account under a free usage plan, such as a Free for Open Source Plan, and in that case this Amendment will apply to the Agency’s usage under the free account/plan. This Amendment also applies when the Agency uses one of GitHub’s paid usage plans.
+1. *No cost agreement* - Nothing in this Amendment or ToS obligates You to expend appropriations or incur financial obligations. The Parties acknowledge and agree that none of the obligations arising from this Amendment or ToS are contingent upon the payment of fees by one party to the other. At the Company’s discretion, OmniBuilds may offer a free account under a free usage plan, such as a Free for Open Source Plan, and in that case this Amendment will apply to the Agency’s usage under the free account/plan. This Amendment also applies when the Agency uses one of OmniBuilds’s paid usage plans.
 
 2. *Agency responsibilities under paid usage plans* - You acknowledge that while Company will provide You with service under a free plan, Company reserves the right to begin charging for that service at some point in the future. Company will provide You with at least 30 days advance notice of a change involving the charging of fees for a free service. You also understand that Company offers paid plans for a fee. The Parties understand that fee-based services are categorically different than free products, and are subject to federal procurement rules and processes. Before the Agency decides to enter into a business or enterprise subscription, or any other fee-based service that this Company or alternative providers may offer now or in the future, You agree: to determine the Agency has a need for those additional services for a fee; to consider the subscription's value in comparison with comparable services available elsewhere; to determine that Agency funds are available for payment; to properly use the Government Purchase Card if that Card is used as the payment method; to review any then-applicable ToS for conformance to federal procurement law; and in all other respects to follow applicable federal acquisition laws, regulations and agency guidelines (including those related to payments) when initiating that separate action.
 
@@ -50,7 +50,7 @@ GitHub and You (together, the "Parties") agree that modifications to the [GitHub
 
 3. *Governing law and Forum* - The dispute resolution provision in the ToS is hereby deleted. The ToS and this Amendment shall be governed, interpreted and enforced in accordance with applicable federal laws of the United States of America and exclusive jurisdiction shall be in the appropriate U.S. federal courts. To the extent permitted by federal law, the laws of the State of California will apply in the absence of federal law.
 
-4. *Assignment* - Neither party may assign its obligations under this Amendment or ToS to any third-party without prior written consent of the other; however, GitHub may, without the Agency's consent, assign its obligations to an Agency using the service under a free usage plan under this Amendment or ToS to an affiliate or to a successor or acquirer, as the case may be, in connection with a merger, acquisition, corporate reorganization or consolidation, or the sale of all or substantially all of GitHub's assets.
+4. *Assignment* - Neither party may assign its obligations under this Amendment or ToS to any third-party without prior written consent of the other; however, OmniBuilds may, without the Agency's consent, assign its obligations to an Agency using the service under a free usage plan under this Amendment or ToS to an affiliate or to a successor or acquirer, as the case may be, in connection with a merger, acquisition, corporate reorganization or consolidation, or the sale of all or substantially all of OmniBuilds's assets.
 
 ### F. Changes to this agreement
 
