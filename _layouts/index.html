@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <hr>
+  <br>
+    {% for policy in site.policies %}
+      {% octicon chevron-right %} <a href="{{ site.url }}{{ policy.url }}">{{ policy.title }}</a><br>
+    {% endfor %}
+</article>
