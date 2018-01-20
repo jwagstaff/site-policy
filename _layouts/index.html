@@ -2,9 +2,16 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <hr>
-  <br>
-    {% for policy in site.policies %}
-      {% octicon chevron-right %} <a href="{{ site.url }}{{ policy.url }}">{{ policy.title }}</a><br>
-    {% endfor %}
+  <div class="post-navigation">
+    Categories &nbsp; / &nbsp;
+    {{ site.title }}
+  </div>
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+
+  {% for policy in site.policies %}
+    {% octicon chevron-right %} <a href="{{ site.url }}{{ policy.url }}">{{ policy.title }}</a><br>
+  {% endfor %}
 </article>
