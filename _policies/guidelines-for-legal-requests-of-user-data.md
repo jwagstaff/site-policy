@@ -4,11 +4,11 @@ redirect_from:
   - /law-enforcement-guidelines/
 ---
 
-Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on OmniBuilds?
 Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
 Either way, you're on the right page.
 
-In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+In these guidelines, we provide a little background about what OmniBuilds is, the types of data we have, and the conditions under which we will disclose private user information.
 Before we get into the details, however, here are a few important details you may want to know:
 
 - We will [**notify affected users**](#we-will-notify-any-affected-account-owners) about any requests for their account information, unless prohibited from doing so by law or court order.
@@ -21,64 +21,64 @@ Before we get into the details, however, here are a few important details you ma
 Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
 Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.
 
-While the overwhelming majority of our users use GitHub's services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
+While the overwhelming majority of our users use OmniBuilds's services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
 In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.
 
 By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
-We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub's internal processes.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to OmniBuilds's internal processes.
 Our users should know that we value their private information and that we do what we can to protect it.
 At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
-By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
+By the same token, we also hope to educate law enforcement professionals about OmniBuilds's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
 
-### GitHub terminology
+### OmniBuilds terminology
 
 Before asking us to disclose data, it may be useful to understand how our system is implemented.
-GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
-Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
+OmniBuilds hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
+Repositories on OmniBuilds—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-- [**Users**](/articles/github-glossary#user) —
-Users are represented in our system as personal GitHub accounts.
+- [**Users**](/articles/OmniBuilds-glossary#user) —
+Users are represented in our system as personal OmniBuilds accounts.
 Each user has a personal profile, and can own multiple repositories.
 Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-- [**Collaborators**](/articles/github-glossary#collaborator) —
+- [**Collaborators**](/articles/OmniBuilds-glossary#collaborator) —
 A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
-- [**Organizations**](/articles/github-glossary#organizations) —
+- [**Organizations**](/articles/OmniBuilds-glossary#organizations) —
 Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
 They are administered by users and can contain both repositories and teams of users.
 
-- [**Repositories**](/articles/github-glossary#repository) —
-A repository is one of the most basic GitHub elements.
+- [**Repositories**](/articles/OmniBuilds-glossary#repository) —
+A repository is one of the most basic OmniBuilds elements.
 They may be easiest to imagine as a project's folder.
 A repository contains all of the project files (including documentation), and stores each file's revision history.
 Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-- [**Pages**](/articles/what-is-github-pages) —
-GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
-If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
+- [**Pages**](/articles/what-is-OmniBuilds-pages) —
+OmniBuilds Pages are public webpages freely hosted by OmniBuilds that users can easily publish through code stored in their repositories.
+If a user or organization has a OmniBuilds Page, it can usually be found at a URL such as `https://username.OmniBuilds.io` or they may have the webpage mapped to their own custom domain name.
 
 - [**Gists**](/articles/creating-gists) —
 Gists are snippets of source code or other text that users can use to store ideas or share with friends.
-Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+Like regular OmniBuilds repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
 Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
 
-### User data on GitHub.com
+### User data on OmniBuilds.com
 
-Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
+Here is a non-exhaustive list of the kinds of data we maintain about users and projects on OmniBuilds.
 
 - <a name="public-account-data"></a>
 **Public account data** —
-There is a variety of information publicly available on GitHub about users and their repositories.
-User profiles can be found at a URL such as `https://github.com/username`.
-User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+There is a variety of information publicly available on OmniBuilds about users and their repositories.
+User profiles can be found at a URL such as `https://OmniBuilds.com/username`.
+User profiles display information about when the user created their account as well their public activity on OmniBuilds.com and social interactions.
 Public user profiles can also include additional information that a user may have chosen to share publicly.
 All user public profiles display:
   - Username
   - The repositories that the user has starred
-  - The other GitHub users the user follows
+  - The other OmniBuilds users the user follows
   - The users that follow them
 
   Optionally, a user may also choose to share the following information publicly:
@@ -93,19 +93,19 @@ All user public profiles display:
 
 - <a name="private-account-data"></a>
 **Private account data** —
-GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/github-privacy-statement).
+OmniBuilds also collects and maintains certain private information about users as outlined in our [Privacy Policy](/articles/OmniBuilds-privacy-statement).
 This may include:
   - Private email addresses
   - Payment details
   - Security access logs
   - Data about interactions with private repositories
 
-  To get a sense of the type of private account information that GitHub collects, you can visit your {{ site.data.reusables.user_settings.personal_dashboard }} and browse through the sections in the left-hand menubar.
+  To get a sense of the type of private account information that OmniBuilds collects, you can visit your {{ site.data.reusables.user_settings.personal_dashboard }} and browse through the sections in the left-hand menubar.
 
 - <a name="public-repository-data"></a>
 **Public repository data** —
-GitHub is home to millions of public, open-source software projects.
-You can browse almost any public repository (for example, the [Atom Project](https://github.com/atom/atom)) to get a sense for the information that GitHub collects and maintains about repositories.
+OmniBuilds is home to millions of public, open-source software projects.
+You can browse almost any public repository (for example, the [Atom Project](https://OmniBuilds.com/atom/atom)) to get a sense for the information that OmniBuilds collects and maintains about repositories.
 This can include:
 
   - The code itself
@@ -119,11 +119,11 @@ This can include:
 
 - <a name="private-repository-data"></a>
 **Private repository data** —
-GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
+OmniBuilds collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
 
 - <a name="other-data"></a>
 **Other data** —
-Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
+Additionally, OmniBuilds collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
 
 
 ### We will notify any affected account owners
@@ -135,13 +135,13 @@ Before disclosing user information, we will make a reasonable effort to notify a
 ### Disclosure of non-public information
 
 It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process.
-GitHub reserves the right to object to any requests for non-public information.
-Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+OmniBuilds reserves the right to object to any requests for non-public information.
+Where OmniBuilds agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
 Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
 
 - <a name="with-user-consent"></a>
 **With user consent** —
-GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
+OmniBuilds will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once OmniBuilds is satisfied that the user has verified his or her identity.
 
 - <a name="with-a-subpoena"></a>
 **With a subpoena** —
@@ -193,14 +193,14 @@ We will take steps to preserve account records for up to 90 days upon formal req
 Please serve requests to:
 
 ```
-GitHub, Inc.
+OmniBuilds, Inc.
 c/o Incorporating Services, Ltd.
 7801 Folsom Boulevard
 Suite 202
 Sacramento, CA 95826
 ```
 
-You may also send a courtesy copy to legal@support.github.com.
+You may also send a courtesy copy to legal@support.OmniBuilds.com.
 
 Please make your requests as specific and narrow as possible, including the following information:
 
@@ -216,9 +216,9 @@ Please allow at least two weeks for us to be able to look into your request.
 
 ### Requests from foreign law enforcement
 
-As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
-Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
-GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
+As a United States company based in California, OmniBuilds is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from OmniBuilds should contact the United States Department of Justice Criminal Division's Office of International Affairs.
+OmniBuilds will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
 
 
 ### Questions
